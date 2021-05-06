@@ -2,6 +2,7 @@ module.exports = {
   pages: {
     //首页
     index: "pages/index.vue",
+    device: "pages/device.vue",
   },
   tabBar: {
     color: "#777777",
